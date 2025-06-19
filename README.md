@@ -5,7 +5,7 @@ A pixel-perfect, animated, fully responsive landing page built with React, Tailw
 ---
 
 ## 🚀 Live Demo
-[View Live Site](https://your-deployment-url.vercel.app)
+[View Live Site](https://iit-bhubaneswar.vercel.app)
 
 ---
 
