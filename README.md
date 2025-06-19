@@ -45,7 +45,7 @@ A pixel-perfect, animated, fully responsive landing page built with React, Tailw
 ## 📝 Setup Instructions
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/iit-bhubaneswar-landing.git
+   git clone https://github.com/dev-ritesh-09/IIT-Bhubaneswar
    cd iit-bhubaneswar-landing
    ```
 2. **Install dependencies:**
