@@ -1,4 +1,4 @@
-# IIT Bhubaneswar Landing Page
+# Landing Page
 
 A pixel-perfect, animated, fully responsive landing page built with React, Tailwind CSS, and Framer Motion. Designed for design-focused hackathons and modern web projects.
 
